@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-m$n_(x2n8^2k!q(awet01lzu@i)@=(l1c5y1%t1b-p=efef*dj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-project-1-pitv.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
